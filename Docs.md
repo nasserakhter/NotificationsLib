@@ -1,6 +1,8 @@
 # Getting Started
 Download the latest release of the `NotificationsLib.dll` file from the releases page.
+
 Add it to your project.
+
 Add the namespace to the C# header.
 ```cs
 using Cookie;
