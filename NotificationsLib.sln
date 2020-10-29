@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationsLib", "NotificationsLib\NotificationsLib.csproj", "{F20DB4C8-4F40-4803-9A06-213F9D5CF18B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationsTest", "NotificationsTest\NotificationsTest.csproj", "{9140AB76-6CD9-47AD-A0F8-AB08B08536BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F20DB4C8-4F40-4803-9A06-213F9D5CF18B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F20DB4C8-4F40-4803-9A06-213F9D5CF18B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F20DB4C8-4F40-4803-9A06-213F9D5CF18B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F20DB4C8-4F40-4803-9A06-213F9D5CF18B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9140AB76-6CD9-47AD-A0F8-AB08B08536BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9140AB76-6CD9-47AD-A0F8-AB08B08536BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9140AB76-6CD9-47AD-A0F8-AB08B08536BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9140AB76-6CD9-47AD-A0F8-AB08B08536BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C7D0181-0EC1-4383-B900-FB0314383596}
+	EndGlobalSection
+EndGlobal
