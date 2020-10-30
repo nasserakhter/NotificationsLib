@@ -1,5 +1,5 @@
 # NotificationsLib
-Notifications Lib is a beautifully crafted library that seamlessly creates desktop notification that are stunning to look at and have adequate functionality.
+Notifications Lib is a beautifully crafted library that seamlessly creates desktop notifications that are stunning to look at and have adequate functionality.
 
 # Screenshot
 ![Screenshot](https://github.com/Absence209/NotificationsLib/blob/main/Screenshot%202020-10-29%20142304.png?raw=true)
