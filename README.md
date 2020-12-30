@@ -28,10 +28,10 @@ Now whenever needed (like in a button click event) you can invoke the notificati
 ```cs
 private void ButtonClick(RoutedEventArgs a)
 {
-  notificationHost.ShowNotification("Text", "Title",  new ImageBrush(image), (args) =>
+  notificationHost.ShowNotification("Text", "Title",  new ImageBrush(image), (notification) =>
     {
       // You can either wait for the notification to dismiss after 'x' seconds or dismiss immediatly when the notification is clicked.
-      notificationHost.DismissNotification(n);
+      notificationHost.DismissNotification(notification);
       // Handle Notification Clicks Here
       Debug.WriteLine("Notification was clicked.");
     });
